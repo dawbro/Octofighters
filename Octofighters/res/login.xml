@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nifty>
+    <useControls filename="nifty-default-controls.xml"/>
+    <useStyles filename="nifty-default-styles.xml"/>
+    <screen id="GScreen0"/>
+    <screen id="GScreen1">
+        <layer id="GLayer0" childLayout="absolute">
+            <image id="GImage3" filename="C:\Users\Dawson\Downloads\OctoFightersStartMENU.jpg" width="786px" x="16" y="34" height="572px"/>
+        </layer>
+        <layer id="GLayer2" childLayout="absolute">
+            <control name="textfield" id="GTextfield15" width="50%" x="214" y="216"/>
+            <control name="textfield" id="GTextfield17" width="50%" x="215" y="269"/>
+            <control name="button" id="GButton0" childLayout="center" x="402" y="309" style="nifty-button" valign="center" label="Login" align="center"/>
+            <control name="button" id="GButton2" childLayout="center" x="512" y="309" label="Quit"/>
+            <control name="label" id="GLabel4" color="#cc0000ff" width="100px" x="117" y="208" text="Username:" height="50px" font="aurulent-sans-16.fnt"/>
+            <control name="label" id="GLabel5" color="#cc0000ff" width="100px" x="117" y="260" text="Password:" height="50px" font="aurulent-sans-16.fnt"/>
+        </layer>
+    </screen>
+</nifty>

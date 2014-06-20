@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Octofighters/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jar/lwjgl-2.9.1/jar/lzma.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/slick-examples.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/slick.jar"/>
+	<classpathentry kind="lib" path="jar/slick/lib/tinylinepp.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="jar/slick-util (1)/lib/slick-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-default-controls-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-default-controls-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-jogl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-jogl-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-slick2d-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-examples-slick2d-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-html-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-html-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-java2d-renderer-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-java2d-renderer-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-jogl-renderer-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-jogl-renderer-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-lwjgl-renderer-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-lwjgl-renderer-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-openal-soundsystem-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-openal-soundsystem-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-pauls-soundsystem-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-pauls-soundsystem-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-slick-renderer-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-slick-renderer-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-style-black-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawson/Downloads/nifty-1.3.3-complete/nifty-style-black-1.3.3-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
